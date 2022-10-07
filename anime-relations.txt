@@ -353,6 +353,15 @@
 # Getsuyoubi no Tawawa -> ~ Specials
 - 34213|12640|97716:13-14 -> 34481|12932|98060:1-2
 
+# Ginga Eiyuu Densetsu: Die Neue These -> ~ - Seiran
+- 31433|11331|?:13:16 -> 36369|13825|?:1-4
+- 31433|11331|?:17:20 -> 36370|42352|?:1-4
+- 31433|11331|?:20:24 -> 36371|42353|?:1-4
+- ?|?|20628:13-24 -> ?|?|100780:1-12
+# Ginga Eiyuu Densetsu: Die Neue These -> ~ - Gekitotsu
+
+# Ginga Eiyuu Densetsu: Die Neue These -> ~ - Sakubou
+
 # Gintama -> ~'
 - 918|818|918:202-252 -> 9969|5971|9969:1-51!
 # Gintama -> ~': Enchousen
